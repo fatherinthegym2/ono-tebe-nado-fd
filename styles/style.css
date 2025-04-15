@@ -131,6 +131,7 @@
     justify-content: space-between;
     padding-top: 27px;
     flex-wrap: wrap;
+    row-gap: 25px;
   
   
   }
